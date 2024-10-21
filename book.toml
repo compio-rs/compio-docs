@@ -1,0 +1,6 @@
+[book]
+authors = ["王宇逸"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Compio Book"
