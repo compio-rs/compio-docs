@@ -2,7 +2,7 @@
 
 # Compio
 
-- [Buffer & IO]()
+- [Buffers](./compio/buffers.md)
 
 ----
 
