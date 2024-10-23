@@ -9,6 +9,11 @@
   - [io-uring](./compio/driver/io-uring.md)
   - [polling](./compio/driver/polling.md)
 - [Runtime](./compio/runtime.md)
+- [File system](./compio/fs.md)
+  - [File](./compio/fs/file.md)
+  - [Pipe](./compio/fs/pipe.md)
+  - [Standard IO](./compio/fs/stdio.md)
+  - [Utils](./compio/fs/utils.md)
 
 ----
 
